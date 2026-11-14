@@ -1,8 +1,8 @@
-Global Smartphone Sales & Camera Benchmark Dashboard (Tableau)
+###Global Smartphone Sales & Camera Benchmark Dashboard (Tableau)
 
 An interactive Tableau data visualization project analyzing flagship and mainstream smartphone performance, market adoption volume, revenue generation, and camera specifications (DxOMark benchmarks).
 
-##Dataset Overview
+###Dataset Overview
 This dataset contains key commercial and technical metrics for leading smartphone models released across major manufacturers (Apple, Samsung, Google, Xiaomi, Oppo, OnePlus, and Vivo).
 
 ### Key Features Included:
